@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<main>
+    <div class="intro">
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        <h1>{{ .Site.Title }}</h1>
+        <h3>{{ markdownify .Site.Params.Description }}</h3>
+        <div> <!--class="homepage-content text-justify"> -->
+        <br>
+        <h4> Researchers: {{ .Site.Data.stats.researchers }} </h4>
+        <h4> Publications in {{ .Site.Data.stats.publications_year }}: {{ .Site.Data.stats.publications }} </h4>
+        <h4> Doctoral graduates: {{ .Site.Data.stats.doctoral_graduates }} </h4>
+        <h4> Doctoral mentors: {{ .Site.Data.stats.doctoral_mentors }} </h4>
+        <h4> Software projects: {{ .Site.Data.stats.software_projects }} </h4>
+        </div>
+    </div>
+</main>
+
+{{ partial "footer" . }}

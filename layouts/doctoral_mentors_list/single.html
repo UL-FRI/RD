@@ -1,0 +1,34 @@
+{{ partial "header" . }}
+
+<div text-align="left">
+
+<main>
+There are {{ .Site.Data.stats.doctoral_mentors }} mentors that can supervise doctoral students.
+
+<br><br>
+
+{{ $data := .Params.data }}
+{{ $mentors := index .Site.Data $data }}
+
+<div text-align="left" align="left" class="item">
+{{ range sort $mentors "lastname"}}
+  {{ if or (in .eligible "true") (in .manual_eligibility_override "true") }}
+
+    {{ if in .url "http" }}
+    <a href="{{ .url }}">{{ .hab }} <b>{{ .firstname }} </b> <b>{{ .lastname }} </b></a>
+    {{ else }}
+    {{ .hab }} <b>{{ .firstname }} </b> <b>{{ .lastname }} </b>
+    {{ end }}
+
+    {{ with .tags }}
+        ({{ delimit . ", " }})
+    {{ end }}
+    <br>
+  {{ end }}
+{{ end }}
+</div>
+
+</main>
+</div>
+
+{{ partial "footer" . }}

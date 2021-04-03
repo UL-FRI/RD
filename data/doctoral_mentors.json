@@ -1,0 +1,1311 @@
+{
+  "02275": {
+    "A12": 224.69,
+    "Z": 340.1,
+    "eligible": true,
+    "firstname": "Ivan",
+    "lastname": "Bratko",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/ivan-bratko",
+    "hab": "prof. dr.",
+    "name": "Ivan Bratko",
+    "tags": ["artificial intelligence", "machine learning", "planning algorithms", "search algorithms", "intelligent robots", "reinforcement learning", "data mining"]
+  },
+  "03438": {
+    "A12": 119.93,
+    "Z": 119.93,
+    "eligible": false,
+    "firstname": "Franc",
+    "lastname": "Jager",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/franc-jager",
+    "hab": "prof. dr.",
+    "name": "Franc Jager",
+    "tags": ["biomedical computer systems and imaging", "biomedical signal and image processing"]
+  },
+  "04242": {
+    "A12": 246.52,
+    "Z": 616.2,
+    "eligible": true,
+    "firstname": "Igor",
+    "lastname": "Kononenko",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/igor-kononenko",
+    "hab": "prof. dr.",
+    "name": "Igor Kononenko",
+    "tags": ["machine learning", "data mining", "artificial intelligence"]
+  },
+  "04646": {
+    "A12": 120.0,
+    "Z": 130.0,
+    "eligible": false,
+    "firstname": "Borut",
+    "lastname": "Robič",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/borut-robic",
+    "hab": "prof. dr.",
+    "name": "Borut Robič",
+    "tags": ["algorithms and data structures", "computability and computational complexity", "operating systems"]
+  },
+  "04967": {
+    "A12": 37.37,
+    "Z": 221.89,
+    "eligible": true,
+    "firstname": "Andrej",
+    "lastname": "Brodnik",
+    "titles": "docent - znanstveni sodelavec, redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/andrej-brodnik",
+    "hab": "asst. prof. dr.",
+    "name": "Andrej Brodnik",
+    "tags": ["algorithms and data structures", "distributed systems", "parallel computing", "operating systems", "computer networking"]
+  },
+  "05896": {
+    "A12": 409.75,
+    "Z": 910.94,
+    "eligible": true,
+    "firstname": "Aleš",
+    "lastname": "Leonardis",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/ales-leonardis",
+    "hab": "prof. dr.",
+    "name": "Aleš Leonardis",
+    "tags": ["cognitive systems", "computer vision", "artificial perception"]
+  },
+  "05957": {
+    "A12": 213.86,
+    "Z": 260.77,
+    "eligible": true,
+    "firstname": "Nikolaj",
+    "lastname": "Zimic",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/nikolaj-zimic",
+    "hab": "prof. dr.",
+    "name": "Nikolaj Zimic",
+    "tags": ["wireless", "sensor and mobile networks", "computer performance", "fuzzy logic"]
+  },
+  "06795": {
+    "A12": 33.33,
+    "Z": 101.33,
+    "eligible": false,
+    "firstname": "Mira",
+    "lastname": "Trebar",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/mira-trebar",
+    "hab": "asst. prof. dr.",
+    "name": "Mira Trebar",
+    "tags": ["radiofrequency identification", "traceability and cold chain", "classification and prediction"]
+  },
+  "08724": {
+    "A12": 82.45,
+    "Z": 222.45,
+    "eligible": true,
+    "firstname": "Aleksandar",
+    "lastname": "Jurišić",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/aleksandar-jurisic",
+    "hab": "prof. dr.",
+    "name": "Aleksandar Jurišić",
+    "tags": ["cryptography", "computer security", "coding theory", "algebraic combinatory", "finite and Euclidean geometry", "algebraic graph theory"]
+  },
+  "09581": {
+    "A12": 187.77,
+    "Z": 319.01,
+    "eligible": true,
+    "firstname": "Franc",
+    "lastname": "Solina",
+    "titles": "",
+    "url": "https://www.fri.uni-lj.si/en/employees/franc-solina",
+    "hab": "prof. dr.",
+    "name": "Franc Solina",
+    "tags": ["computer vision", "augmented reality", "multimedia", "visualization"]
+  },
+  "11077": {
+    "A12": 605.5,
+    "Z": 727.83,
+    "eligible": true,
+    "firstname": "Denis",
+    "lastname": "Trček",
+    "titles": "",
+    "url": "https://www.fri.uni-lj.si/en/employees/denis-trcek",
+    "hab": "prof. dr.",
+    "name": "Denis Trček",
+    "tags": ["information technology", "security and privacy", "human factor modeling - trust management"]
+  },
+  "11161": {
+    "A12": 17.56,
+    "Z": 193.09,
+    "eligible": true,
+    "firstname": "Aleš",
+    "lastname": "Jaklič",
+    "titles": "znanstveni sodelavec",
+    "hab": "asst. prof. dr."
+  },
+  "12536": {
+    "A12": 415.0,
+    "Z": 796.95,
+    "eligible": true,
+    "firstname": "Blaž",
+    "lastname": "Zupan",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/blaz-zupan",
+    "hab": "prof. dr.",
+    "name": "Blaž Zupan",
+    "tags": ["data mining", "visualization", "decision support", "bioinformatics"]
+  },
+  "12766": {
+    "A12": 273.05,
+    "Z": 404.3,
+    "eligible": true,
+    "firstname": "Boštjan",
+    "lastname": "Slivnik",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/bostjan-slivnik",
+    "hab": "asst. prof. dr.",
+    "name": "Boštjan Slivnik"
+  },
+  "13442": {
+    "A12": 277.17,
+    "Z": 351.42,
+    "eligible": true,
+    "firstname": "Miha",
+    "lastname": "Mraz",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/miha-mraz",
+    "hab": "prof. dr.",
+    "name": "Miha Mraz",
+    "tags": ["unconventional processing", "DNA processing", "fuzzy logic"]
+  },
+  "13564": {
+    "A12": 0.0,
+    "Z": 25.0,
+    "eligible": false,
+    "firstname": "Igor",
+    "lastname": "Rožanc",
+    "titles": "asistent z doktoratom"
+  },
+  "13982": {
+    "A12": 0.0,
+    "Z": 26.25,
+    "eligible": false,
+    "firstname": "Mojca",
+    "lastname": "Ciglarič",
+    "titles": "izredni profesor - višji znanstveni sodelavec"
+  },
+  "14300": {
+    "A12": 0.0,
+    "Z": 22.4,
+    "eligible": false,
+    "firstname": "Branko",
+    "lastname": "Šter",
+    "titles": "redni profesor - znanstveni svetnik"
+  },
+  "14565": {
+    "A12": 183.34,
+    "Z": 237.19,
+    "eligible": true,
+    "firstname": "Matjaž",
+    "lastname": "Kukar",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/matjaz-kukar",
+    "hab": "assoc. prof. dr.",
+    "name": "Matjaž Kukar",
+    "tags": ["cognitive modeling", "machine learning", "medical diagnostics"]
+  },
+  "14989": {
+    "A12": 20.43,
+    "Z": 47.43,
+    "eligible": false,
+    "firstname": "Robert",
+    "lastname": "Rozman",
+    "titles": "asistent z doktoratom"
+  },
+  "15294": {
+    "A12": 25.88,
+    "Z": 85.88,
+    "eligible": false,
+    "firstname": "Rok",
+    "lastname": "Rupnik",
+    "titles": "docent - znanstveni sodelavec"
+  },
+  "15295": {
+    "A12": 663.01,
+    "Z": 1389.3,
+    "eligible": true,
+    "firstname": "Marko",
+    "lastname": "Robnik Šikonja",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/marko-robnik-sikonja",
+    "hab": "prof. dr.",
+    "name": "Marko Robnik Šikonja",
+    "tags": ["machine learning", "data mining", "artificial intelligence"]
+  },
+  "15677": {
+    "A12": 395.82,
+    "Z": 662.56,
+    "eligible": true,
+    "firstname": "Matija",
+    "lastname": "Marolt",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/matija-marolt",
+    "hab": "assoc. prof. dr.",
+    "name": "Matija Marolt",
+    "tags": ["multimedia retrieval", "music information retrieval", "computer music", "digital libraries"]
+  },
+  "16109": {
+    "A12": 123.46,
+    "Z": 169.29,
+    "eligible": true,
+    "firstname": "Uroš",
+    "lastname": "Lotrič",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "hab": "assoc. prof. dr."
+  },
+  "16131": {
+    "A12": 120.53,
+    "Z": 138.02,
+    "eligible": false,
+    "firstname": "Alenka",
+    "lastname": "Kavčič",
+    "titles": "asistent z doktoratom"
+  },
+  "16154": {
+    "A12": 177.63,
+    "Z": 357.49,
+    "eligible": true,
+    "firstname": "Marko",
+    "lastname": "Bajec",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/marko-bajec",
+    "hab": "prof. dr.",
+    "name": "Marko Bajec",
+    "tags": ["information systems development", "IT governance", "data management", "integration", "analysis and visualization", "network analysis", "web mining"]
+  },
+  "16324": {
+    "A12": 492.06,
+    "Z": 617.06,
+    "eligible": true,
+    "firstname": "Janez",
+    "lastname": "Demšar",
+    "titles": "",
+    "url": "https://www.fri.uni-lj.si/en/employees/janez-demsar",
+    "hab": "prof. dr.",
+    "name": "Janez Demšar",
+    "tags": ["data mining", "data visualization", "network analysis", "machine learning", "bioinformatics", "medicine"]
+  },
+  "16332": {
+    "A12": 0.0,
+    "Z": 50.9,
+    "eligible": false,
+    "firstname": "Gašper",
+    "lastname": "Fijavž",
+    "titles": "redni profesor - znanstveni svetnik"
+  },
+  "18188": {
+    "A12": 105.92,
+    "Z": 377.17,
+    "eligible": true,
+    "firstname": "Tomaž",
+    "lastname": "Dobravec",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/tomaz-dobravec",
+    "hab": "asst. prof. dr.",
+    "name": "Tomaž Dobravec",
+    "tags": ["algorithms and data structures"]
+  },
+  "18198": {
+    "A12": 204.87,
+    "Z": 501.83,
+    "eligible": true,
+    "firstname": "Danijel",
+    "lastname": "Skočaj",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/danijel-skocaj",
+    "hab": "assoc. prof. dr.",
+    "name": "Danijel Skočaj",
+    "tags": ["machine perception", "computer vision", "cognitive systems"]
+  },
+  "18199": {
+    "A12": 0.0,
+    "Z": 70.18,
+    "eligible": false,
+    "firstname": "Aleš",
+    "lastname": "Smrdel",
+    "titles": "docent - znanstveni sodelavec"
+  },
+  "18337": {
+    "A12": 253.31,
+    "Z": 293.64,
+    "eligible": true,
+    "firstname": "Branko Matjaž",
+    "lastname": "Jurič",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/matjaz-branko-juric",
+    "hab": "prof. dr.",
+    "name": "Matjaž Branko Jurič",
+    "tags": ["application and information system integration methods", "cloud computing", "web services", "service oriented architectures (SOA)", "event driven architectures (EDA) and complex event processing (CEP)", "business process management (BPM)", "process application", "IoT device integration"]
+  },
+  "19226": {
+    "A12": 301.05,
+    "Z": 757.05,
+    "eligible": true,
+    "firstname": "Peter",
+    "lastname": "Peer",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://fri.uni-lj.si/sl/o-fakulteti/osebje/peter-peer",
+    "hab": "prof. dr.",
+    "name": "Peter Peer",
+    "tags": ["computer/machine vision", "biometrics", "understanding of images/videos", "human-computer interaction"]
+  },
+  "19236": {
+    "A12": 102.8,
+    "Z": 227.94,
+    "eligible": true,
+    "firstname": "Janez",
+    "lastname": "Žibert",
+    "titles": "izredni profesor - višji znanstveni sodelavec, redni profesor - znanstveni svetnik",
+    "hab": "assoc. prof. dr."
+  },
+  "19284": {
+    "A12": 0.0,
+    "Z": 250.71,
+    "eligible": false,
+    "firstname": "Marko",
+    "lastname": "Boben",
+    "titles": "asistent (raziskovalec, dipl. VII. stopnje), asistent z doktoratom, docent - znanstveni sodelavec, višji razvijalec"
+  },
+  "19365": {
+    "A12": 14.79,
+    "Z": 21.04,
+    "eligible": false,
+    "firstname": "Matjaž",
+    "lastname": "Pančur",
+    "titles": "asistent z doktoratom"
+  },
+  "19515": {
+    "A12": 277.13,
+    "Z": 319.13,
+    "eligible": true,
+    "firstname": "Patricio",
+    "lastname": "Bulić",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/patricio-bulic",
+    "hab": "assoc. prof. dr.",
+    "name": "Patricio Bulić",
+    "tags": ["computer architecture", "parallel processing", "digital design"]
+  },
+  "19728": {
+    "A12": 358.42,
+    "Z": 874.04,
+    "eligible": true,
+    "firstname": "Vlado",
+    "lastname": "Stankovski",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/vlado-stankovski",
+    "hab": "prof. dr.",
+    "name": "Vlado Stankovski"
+  },
+  "20334": {
+    "A12": 103.26,
+    "Z": 113.26,
+    "eligible": false,
+    "firstname": "Aljaž",
+    "lastname": "Zrnec",
+    "titles": "asistent z doktoratom"
+  },
+  "20389": {
+    "A12": 95.17,
+    "Z": 117.5,
+    "eligible": false,
+    "firstname": "Aleksander",
+    "lastname": "Sadikov",
+    "titles": ""
+  },
+  "21393": {
+    "A12": 178.52,
+    "Z": 314.56,
+    "eligible": true,
+    "firstname": "Damjan",
+    "lastname": "Vavpotič",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/damjan-vavpotic",
+    "hab": "assoc. prof. dr.",
+    "name": "Damjan Vavpotič",
+    "tags": ["information systems", "information systems development", "software development processes", "evaluation of software development methodologies and processes", "adoption of software process innovations"]
+  },
+  "21404": {
+    "A12": 116.68,
+    "Z": 172.35,
+    "eligible": true,
+    "firstname": "Iztok",
+    "lastname": "Lebar Bajec",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/iztok-lebar-bajec",
+    "hab": "assoc. prof. dr.",
+    "name": "Iztok Lebar Bajec",
+    "tags": ["quantum-dot cellular automata", "agent-based models", "multi-values and fuzzy logic"]
+  },
+  "22472": {
+    "A12": 61.46,
+    "Z": 81.46,
+    "eligible": false,
+    "firstname": "Borut",
+    "lastname": "Batagelj",
+    "titles": "asistent z doktoratom"
+  },
+  "22475": {
+    "A12": 174.35,
+    "Z": 502.26,
+    "eligible": true,
+    "firstname": "Jurij",
+    "lastname": "Mihelič",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/jurij-mihelic",
+    "hab": "asst. prof. dr.",
+    "name": "Jurij Mihelič"
+  },
+  "22723": {
+    "A12": 315.49,
+    "Z": 371.17,
+    "eligible": true,
+    "firstname": "Polona",
+    "lastname": "Oblak",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/polona-oblak",
+    "hab": "assoc. prof. dr.",
+    "name": "Polona Oblak",
+    "tags": ["linear algebra", "matrix theory", "geometry of matrices"]
+  },
+  "23399": {
+    "A12": 543.27,
+    "Z": 554.47,
+    "eligible": true,
+    "firstname": "Tomaž",
+    "lastname": "Curk",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/tomaz-curk",
+    "hab": "assoc. prof. dr.",
+    "name": "Tomaž Curk",
+    "tags": ["bioinformatics", "protein structure", "protein-RNA interaction", "machine learning", "data visualization", "model visualization"]
+  },
+  "23400": {
+    "A12": 122.34,
+    "Z": 310.26,
+    "eligible": false,
+    "firstname": "Uroš",
+    "lastname": "Čibej",
+    "manual_eligibility_override": true,
+    "titles": "asistent z doktoratom",
+    "hab": "asst. prof. dr."
+  },
+  "23401": {
+    "A12": 96.28,
+    "Z": 232.71,
+    "eligible": true,
+    "firstname": "Luka",
+    "lastname": "Šajn",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/luka-sajn",
+    "hab": "asst. prof. dr.",
+    "name": "Luka Šajn"
+  },
+  "23953": {
+    "A12": 118.89,
+    "Z": 171.39,
+    "eligible": false,
+    "firstname": "Marko",
+    "lastname": "Poženel",
+    "titles": ""
+  },
+  "23987": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Martin",
+    "lastname": "Vuk",
+    "titles": ""
+  },
+  "24815": {
+    "A12": 91.07,
+    "Z": 91.07,
+    "eligible": false,
+    "firstname": "Peter Marjan",
+    "lastname": "Kink",
+    "titles": "asistent (raziskovalec, dipl. VII. stopnje)"
+  },
+  "25526": {
+    "A12": 192.07,
+    "Z": 267.91,
+    "eligible": true,
+    "firstname": "Dejan",
+    "lastname": "Lavbič",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/dejan-lavbic",
+    "hab": "asst. prof. dr.",
+    "name": "Dejan Lavbič"
+  },
+  "25527": {
+    "A12": 99.0,
+    "Z": 201.67,
+    "eligible": false,
+    "firstname": "Luka",
+    "lastname": "Fuerst",
+    "manual_eligibility_override": true,
+    "titles": "",
+    "url": "https://fri.uni-lj.si/en/employees/luka-furst",
+    "hab": "asst. prof. dr.",
+    "name": "Luka Fürst",
+    "tags": ["algorithms and data structures", "graph grammars", "machine learning"]
+  },
+  "25594": {
+    "A12": 63.53,
+    "Z": 116.86,
+    "eligible": false,
+    "firstname": "Gregor",
+    "lastname": "Jerše",
+    "titles": "asistent z doktoratom"
+  },
+  "26166": {
+    "A12": 204.64,
+    "Z": 409.42,
+    "eligible": true,
+    "firstname": "Simon",
+    "lastname": "Krek",
+    "titles": "docent - znanstveni sodelavec, strokovno-raziskovalni sodelavec",
+    "hab": "asst. prof. dr."
+  },
+  "26513": {
+    "A12": 0.0,
+    "Z": 20.92,
+    "eligible": false,
+    "firstname": "Gašper",
+    "lastname": "Fele Žorž",
+    "titles": ""
+  },
+  "26522": {
+    "A12": 484.34,
+    "Z": 620.26,
+    "eligible": true,
+    "firstname": "Žiga",
+    "lastname": "Virk",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/ziga-virk",
+    "hab": "assoc. prof. dr.",
+    "name": "Žiga Virk",
+    "tags": ["computational topology"]
+  },
+  "27674": {
+    "A12": 383.19,
+    "Z": 717.23,
+    "eligible": true,
+    "firstname": "Špela",
+    "lastname": "Arhar Holdt",
+    "titles": "znanstveni sodelavec",
+    "hab": "dr."
+  },
+  "28364": {
+    "A12": 25.0,
+    "Z": 25.0,
+    "eligible": false,
+    "firstname": "Miha",
+    "lastname": "Janež",
+    "titles": ""
+  },
+  "28365": {
+    "A12": 85.03,
+    "Z": 172.08,
+    "eligible": true,
+    "firstname": "Matej",
+    "lastname": "Guid",
+    "titles": "",
+    "url": "https://fri.uni-lj.si/en/employees/matej-guid",
+    "hab": "asst. prof. dr.",
+    "name": "Matej Guid"
+  },
+  "28779": {
+    "A12": 354.99,
+    "Z": 615.95,
+    "eligible": true,
+    "firstname": "Zoran",
+    "lastname": "Bosnić",
+    "titles": "redni profesor - znanstveni svetnik",
+    "url": "https://www.fri.uni-lj.si/en/employees/zoran-bosnic",
+    "hab": "prof. dr.",
+    "name": "Zoran Bosnić",
+    "tags": ["machine learning", "algorithms", "web programming", "computer communications"]
+  },
+  "29020": {
+    "A12": 198.45,
+    "Z": 222.34,
+    "eligible": true,
+    "firstname": "Jure",
+    "lastname": "Žabkar",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/jure-zabkar",
+    "hab": "asst. prof. dr.",
+    "name": "Jure Žabkar"
+  },
+  "29021": {
+    "A12": 76.03,
+    "Z": 160.2,
+    "eligible": false,
+    "firstname": "Martin",
+    "lastname": "Možina",
+    "manual_eligibility_override": true,
+    "titles": "asistent z doktoratom",
+    "hab": "asst. prof. dr."
+  },
+  "29198": {
+    "A12": 395.04,
+    "Z": 530.24,
+    "eligible": true,
+    "firstname": "Miha",
+    "lastname": "Moškon",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/miha-moskon",
+    "hab": "assoc. prof. dr.",
+    "name": "Miha Moškon"
+  },
+  "29381": {
+    "A12": 336.06,
+    "Z": 513.01,
+    "eligible": true,
+    "firstname": "Luka",
+    "lastname": "Čehovin Zajc",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/luka-cehovin-zajc",
+    "hab": "asst. prof. dr.",
+    "name": "Luka Čehovin Zajc",
+    "tags": ["computer vision", "deep learning", "cognitive systems", "human-computer interaction", "augmented reality"]
+  },
+  "29485": {
+    "A12": 154.79,
+    "Z": 228.79,
+    "eligible": false,
+    "firstname": "Jana",
+    "lastname": "Faganeli Pucer",
+    "manual_eligibility_override": true,
+    "titles": "asistent z doktoratom",
+    "hab": "asst. prof. dr."
+  },
+  "29486": {
+    "A12": 695.77,
+    "Z": 824.68,
+    "eligible": true,
+    "firstname": "Erik",
+    "lastname": "Štrumbelj",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/erik-strumbelj",
+    "hab": "assoc. prof. dr.",
+    "name": "Erik Štrumbelj",
+    "tags": ["applied statistics", "Bayesian statistics", "statistical methods in machine learning"]
+  },
+  "29583": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Aleksandra",
+    "lastname": "Franc",
+    "titles": ""
+  },
+  "30062": {
+    "A12": 204.99,
+    "Z": 390.62,
+    "eligible": true,
+    "firstname": "Ciril",
+    "lastname": "Bohak",
+    "titles": "docent - znanstveni sodelavec",
+    "hab": "asst. prof. dr."
+  },
+  "30142": {
+    "A12": 14.79,
+    "Z": 26.45,
+    "eligible": false,
+    "firstname": "Marko",
+    "lastname": "Toplak",
+    "titles": ""
+  },
+  "30155": {
+    "A12": 485.38,
+    "Z": 666.79,
+    "eligible": false,
+    "firstname": "Matej",
+    "lastname": "Kristan",
+    "manual_eligibility_override": true,
+    "titles": "",
+    "url": "https://www.fri.uni-lj.si/en/employees/matej-kristan",
+    "hab": "assoc. prof. dr.",
+    "name": "Matej Kristan",
+    "tags": ["artificial cognition", "statistical methods for computer vision", "video sequence analysis"]
+  },
+  "30657": {
+    "A12": 221.62,
+    "Z": 221.62,
+    "eligible": false,
+    "firstname": "Bojan",
+    "lastname": "Žunkovič",
+    "titles": "asistent (raziskovalec, dipl. VII. stopnje)"
+  },
+  "30915": {
+    "A12": 413.93,
+    "Z": 463.94,
+    "eligible": false,
+    "firstname": "Dejan",
+    "lastname": "Georgiev",
+    "titles": ""
+  },
+  "30918": {
+    "A12": 477.11,
+    "Z": 539.61,
+    "eligible": true,
+    "firstname": "Lovro",
+    "lastname": "Šubelj",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/lovro-subelj",
+    "hab": "asst. prof. dr.",
+    "name": "Lovro Šubelj"
+  },
+  "30921": {
+    "A12": 29.31,
+    "Z": 35.56,
+    "eligible": false,
+    "firstname": "Lan",
+    "lastname": "Žagar",
+    "titles": ""
+  },
+  "31252": {
+    "A12": 0.0,
+    "Z": 65.0,
+    "eligible": false,
+    "firstname": "Narvika",
+    "lastname": "Bovcon",
+    "titles": ""
+  },
+  "31379": {
+    "A12": 138.36,
+    "Z": 194.19,
+    "eligible": false,
+    "firstname": "Nejc",
+    "lastname": "Ilc",
+    "manual_eligibility_override": true,
+    "titles": "",
+    "hab": "asst. prof. dr."
+  },
+  "31407": {
+    "A12": 244.66,
+    "Z": 327.66,
+    "eligible": true,
+    "firstname": "Tomaž",
+    "lastname": "Hovelja",
+    "titles": "izredni profesor - višji znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/tomaz-hovelja",
+    "hab": "assoc. prof. dr.",
+    "name": "Tomaž Hovelja",
+    "tags": ["strategic information system planning", "evaluation of software development process from multiple stakeholder views (business, developers, technical)", "evaluation of information systems from multiple stakeholder views (business, developers, technical)", "evaluation of IT project", "mainly evaluation of implementations of new business solutions from multiple stakeholder views (business, developers, technical)"]
+  },
+  "31563": {
+    "A12": 101.78,
+    "Z": 161.78,
+    "eligible": false,
+    "firstname": "Petar",
+    "lastname": "Vračar",
+    "titles": ""
+  },
+  "32040": {
+    "A12": 45.43,
+    "Z": 125.43,
+    "eligible": false,
+    "firstname": "David",
+    "lastname": "Jelenc",
+    "titles": ""
+  },
+  "32737": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Niko",
+    "lastname": "Gamulin",
+    "titles": ""
+  },
+  "32887": {
+    "A12": 0.0,
+    "Z": 20.5,
+    "eligible": false,
+    "firstname": "Bojan",
+    "lastname": "Klemenc",
+    "titles": "asistent z magisterijem, strokovni sodelavec"
+  },
+  "32930": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Aleš",
+    "lastname": "Erjavec",
+    "titles": ""
+  },
+  "33187": {
+    "A12": 34.71,
+    "Z": 95.71,
+    "eligible": false,
+    "firstname": "Vida",
+    "lastname": "Groznik",
+    "titles": ""
+  },
+  "33385": {
+    "A12": 67.18,
+    "Z": 70.52,
+    "eligible": false,
+    "firstname": "Davor",
+    "lastname": "Sluga",
+    "titles": "asistent (raziskovalec, dipl. VII. stopnje)"
+  },
+  "33510": {
+    "A12": 102.2,
+    "Z": 102.2,
+    "eligible": false,
+    "firstname": "Jelena",
+    "lastname": "Klisara",
+    "titles": ""
+  },
+  "33795": {
+    "A12": 121.32,
+    "Z": 139.65,
+    "eligible": false,
+    "firstname": "Rok",
+    "lastname": "Češnovar",
+    "titles": "asistent"
+  },
+  "34156": {
+    "A12": 67.9,
+    "Z": 171.07,
+    "eligible": true,
+    "firstname": "Slavko",
+    "lastname": "Žitnik",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://fri.uni-lj.si/en/employees/slavko-zitnik",
+    "hab": "asst. prof. dr.",
+    "name": "Slavko Žitnik",
+    "tags": ["natural language processing", "web information retrieval and extraction", "semantic technologies"]
+  },
+  "34398": {
+    "A12": 161.21,
+    "Z": 231.63,
+    "eligible": false,
+    "firstname": "Domen",
+    "lastname": "Tabernik",
+    "titles": ""
+  },
+  "34404": {
+    "A12": 0.0,
+    "Z": 25.0,
+    "eligible": false,
+    "firstname": "Matevž",
+    "lastname": "Jekovec",
+    "titles": ""
+  },
+  "34600": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Matej",
+    "lastname": "Pičulin",
+    "titles": ""
+  },
+  "34640": {
+    "A12": 0.0,
+    "Z": 88.33,
+    "eligible": false,
+    "firstname": "Damir",
+    "lastname": "Franetič",
+    "titles": ""
+  },
+  "35071": {
+    "A12": 278.04,
+    "Z": 388.86,
+    "eligible": false,
+    "firstname": "Matevž",
+    "lastname": "Pesek",
+    "manual_eligibility_override": true,
+    "titles": "asistent (raziskovalec, dipl. VII. stopnje)",
+    "hab": "asst. prof. dr."
+  },
+  "35424": {
+    "A12": 171.8,
+    "Z": 210.13,
+    "eligible": true,
+    "firstname": "Tomaž",
+    "lastname": "Hočevar",
+    "titles": "",
+    "url": "https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/tomaz-hocevar",
+    "hab": "asst. prof. dr.",
+    "name": "Tomaž Hočevar"
+  },
+  "35522": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Miha",
+    "lastname": "Nagelj",
+    "titles": ""
+  },
+  "36360": {
+    "A12": 316.82,
+    "Z": 355.19,
+    "eligible": true,
+    "firstname": "Aljaž",
+    "lastname": "Zalar",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/sl/o-fakulteti/osebje/aljaz-zalar-0",
+    "hab": "asst. prof. dr.",
+    "name": "Aljaž Zalar"
+  },
+  "36871": {
+    "A12": 474.93,
+    "Z": 916.34,
+    "eligible": true,
+    "firstname": "Nikola",
+    "lastname": "Ljubešić",
+    "titles": "",
+    "hab": "asst. prof. dr."
+  },
+  "36914": {
+    "A12": 292.34,
+    "Z": 479.48,
+    "eligible": false,
+    "firstname": "Jaka",
+    "lastname": "Čibej",
+    "titles": ""
+  },
+  "37486": {
+    "A12": 76.9,
+    "Z": 145.42,
+    "eligible": false,
+    "firstname": "Anita",
+    "lastname": "Valmarska",
+    "titles": ""
+  },
+  "37645": {
+    "A12": 193.55,
+    "Z": 275.88,
+    "eligible": true,
+    "firstname": "Jure",
+    "lastname": "Demšar",
+    "titles": "docent - znanstveni sodelavec",
+    "hab": "asst. prof. dr."
+  },
+  "37955": {
+    "A12": 311.46,
+    "Z": 441.83,
+    "eligible": true,
+    "firstname": "Veljko",
+    "lastname": "Pejović",
+    "titles": "docent - znanstveni sodelavec",
+    "url": "https://www.fri.uni-lj.si/en/employees/veljko-pejovic",
+    "hab": "asst. prof. dr.",
+    "name": "Veljko Pejović",
+    "tags": ["ubiquitous computing", "wireless networks", "mobile sensing", "information and communication technologies for development", "technology and society"]
+  },
+  "38175": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Aleks",
+    "lastname": "Huč",
+    "titles": ""
+  },
+  "38461": {
+    "A12": 175.32,
+    "Z": 250.95,
+    "eligible": false,
+    "firstname": "Ajda",
+    "lastname": "Pretnar",
+    "titles": ""
+  },
+  "38464": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Vesna",
+    "lastname": "Tanko",
+    "titles": ""
+  },
+  "39226": {
+    "A12": 75.68,
+    "Z": 85.68,
+    "eligible": false,
+    "firstname": "Gregor",
+    "lastname": "Pirš",
+    "titles": ""
+  },
+  "39227": {
+    "A12": 147.36,
+    "Z": 220.19,
+    "eligible": false,
+    "firstname": "Alan",
+    "lastname": "Lukežič",
+    "titles": ""
+  },
+  "39887": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Miha",
+    "lastname": "Grohar",
+    "titles": ""
+  },
+  "50367": {
+    "A12": 45.39,
+    "Z": 94.14,
+    "eligible": false,
+    "firstname": "Borja",
+    "lastname": "Bovcon",
+    "titles": ""
+  },
+  "50418": {
+    "A12": 233.52,
+    "Z": 304.98,
+    "eligible": false,
+    "firstname": "Petar",
+    "lastname": "Kochovski",
+    "titles": ""
+  },
+  "50664": {
+    "A12": 32.93,
+    "Z": 32.93,
+    "eligible": false,
+    "firstname": "Primož",
+    "lastname": "Godec",
+    "titles": ""
+  },
+  "50843": {
+    "A12": 73.91,
+    "Z": 107.66,
+    "eligible": false,
+    "firstname": "Jon Natanael",
+    "lastname": "Muhovič",
+    "titles": ""
+  },
+  "51331": {
+    "A12": 70.32,
+    "Z": 126.94,
+    "eligible": false,
+    "firstname": "Sandi",
+    "lastname": "Gec",
+    "titles": ""
+  },
+  "52095": {
+    "A12": 80.96,
+    "Z": 100.16,
+    "eligible": false,
+    "firstname": "Matej",
+    "lastname": "Vitek",
+    "titles": ""
+  },
+  "52096": {
+    "A12": 29.47,
+    "Z": 37.47,
+    "eligible": false,
+    "firstname": "Amra",
+    "lastname": "Omanović",
+    "titles": ""
+  },
+  "52097": {
+    "A12": 0.0,
+    "Z": 5.0,
+    "eligible": false,
+    "firstname": "Teodora",
+    "lastname": "Matić",
+    "titles": ""
+  },
+  "52176": {
+    "A12": 0.0,
+    "Z": 6.67,
+    "eligible": false,
+    "firstname": "Teja",
+    "lastname": "Goli",
+    "titles": ""
+  },
+  "52179": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Ana",
+    "lastname": "Herzog",
+    "titles": ""
+  },
+  "52181": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Jure",
+    "lastname": "Lokovšek",
+    "titles": ""
+  },
+  "52244": {
+    "A12": 74.74,
+    "Z": 91.47,
+    "eligible": false,
+    "firstname": "Žiga",
+    "lastname": "Pušnik",
+    "titles": ""
+  },
+  "52309": {
+    "A12": 22.15,
+    "Z": 54.98,
+    "eligible": false,
+    "firstname": "Žiga",
+    "lastname": "Lesar",
+    "titles": ""
+  },
+  "52331": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Ivan",
+    "lastname": "Majhen",
+    "titles": ""
+  },
+  "53629": {
+    "A12": 55.71,
+    "Z": 58.21,
+    "eligible": false,
+    "firstname": "Lidija",
+    "lastname": "Magdevska",
+    "titles": ""
+  },
+  "53630": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Aleš",
+    "lastname": "Papič",
+    "titles": ""
+  },
+  "53724": {
+    "A12": 52.04,
+    "Z": 77.6,
+    "eligible": false,
+    "firstname": "Peter",
+    "lastname": "Rot",
+    "titles": ""
+  },
+  "53774": {
+    "A12": 17.56,
+    "Z": 30.68,
+    "eligible": false,
+    "firstname": "Jaka",
+    "lastname": "Šircelj",
+    "titles": ""
+  },
+  "53819": {
+    "A12": 79.64,
+    "Z": 171.13,
+    "eligible": false,
+    "firstname": "Blaž",
+    "lastname": "Meden",
+    "titles": ""
+  },
+  "53820": {
+    "A12": 129.55,
+    "Z": 277.7,
+    "eligible": false,
+    "firstname": "Žiga",
+    "lastname": "Emeršič",
+    "titles": ""
+  },
+  "53821": {
+    "A12": 50.0,
+    "Z": 190.34,
+    "eligible": false,
+    "firstname": "Damjan",
+    "lastname": "Fujs",
+    "titles": ""
+  },
+  "53924": {
+    "A12": 90.71,
+    "Z": 105.71,
+    "eligible": false,
+    "firstname": "Vitjan",
+    "lastname": "Zavrtanik",
+    "titles": ""
+  },
+  "54288": {
+    "A12": 362.29,
+    "Z": 519.04,
+    "eligible": false,
+    "firstname": "Octavian-Mihai",
+    "lastname": "Machidon",
+    "titles": ""
+  },
+  "54426": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Tea",
+    "lastname": "Brašanac",
+    "titles": ""
+  },
+  "54570": {
+    "A12": 107.95,
+    "Z": 146.7,
+    "eligible": false,
+    "firstname": "Alina Luminita",
+    "lastname": "Machidon",
+    "titles": ""
+  },
+  "54781": {
+    "A12": 17.56,
+    "Z": 29.85,
+    "eligible": false,
+    "firstname": "Tim",
+    "lastname": "Oblak",
+    "titles": "asistent (raziskovalec, dipl. VII. stopnje)"
+  },
+  "54820": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Marko",
+    "lastname": "Zeman",
+    "titles": ""
+  },
+  "55002": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Lojze",
+    "lastname": "Žust",
+    "titles": ""
+  },
+  "55044": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Matej",
+    "lastname": "Dobrevski",
+    "titles": ""
+  },
+  "55069": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Benjamin",
+    "lastname": "Fele",
+    "titles": ""
+  },
+  "55173": {
+    "A12": 0.0,
+    "Z": 58.75,
+    "eligible": false,
+    "firstname": "Matej",
+    "lastname": "Ulčar",
+    "titles": ""
+  },
+  "55352": {
+    "A12": 0.0,
+    "Z": 0.0,
+    "eligible": false,
+    "firstname": "Matic",
+    "lastname": "Kavaš",
+    "titles": ""
+  }
+}
